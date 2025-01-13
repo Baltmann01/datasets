@@ -1,4 +1,4 @@
-year, rcp45_mean, rcp45_min, rcp45_max, rcp85_mean, rcp85_min, rcp85_max, NOTE: This file contains annual projection values produced by global climate models. Decadal averages of these values (as shown in the Climate Explorer) are a more appropriate temporal scale for using projections.
+year, rcp45_mean, rcp45_min, rcp45_max, rcp85_mean, rcp85_min, rcp85_max
 2005, 74.5,69.2,78.2,74.5,69.2,78.2
 2006, 74.6,67.9,78.4,74.5,69.2,78.4
 2007, 74.6,66.3,78.5,74.8,68.8,79.1
